@@ -1,4 +1,4 @@
-NDMyNTUzMzg1MjA4NzA5MTIx.DpU3jA.M5g75bUoAJ6pJp2Wm1yDJX_HEg4import discord
+import discord
 import asyncio
 import youtube_dl
 import os
